@@ -1,0 +1,124 @@
+﻿  Cajero.cpp
+C:\Users\Giakomo\Desktop\BancoCajero\Cajero\Cajero.cpp(316,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\Giakomo\Desktop\BancoCajero\Cajero\Cajero.cpp(585,20): warning C4244: 'argumento': conversión de 'double' a 'T'; posible pérdida de datos
+C:\Users\Giakomo\Desktop\BancoCajero\Cajero\Cajero.cpp(585,20): warning C4244:         with
+C:\Users\Giakomo\Desktop\BancoCajero\Cajero\Cajero.cpp(585,20): warning C4244:         [
+C:\Users\Giakomo\Desktop\BancoCajero\Cajero\Cajero.cpp(585,20): warning C4244:             T=int
+C:\Users\Giakomo\Desktop\BancoCajero\Cajero\Cajero.cpp(585,20): warning C4244:         ]
+C:\Users\Giakomo\Desktop\BancoCajero\Cajero\Cajero.cpp(592,20): warning C4244: 'argumento': conversión de 'double' a 'T'; posible pérdida de datos
+C:\Users\Giakomo\Desktop\BancoCajero\Cajero\Cajero.cpp(592,20): warning C4244:         with
+C:\Users\Giakomo\Desktop\BancoCajero\Cajero\Cajero.cpp(592,20): warning C4244:         [
+C:\Users\Giakomo\Desktop\BancoCajero\Cajero\Cajero.cpp(592,20): warning C4244:             T=int
+C:\Users\Giakomo\Desktop\BancoCajero\Cajero\Cajero.cpp(592,20): warning C4244:         ]
+C:\Users\Giakomo\Desktop\BancoCajero\Cajero\Cajero.cpp(599,20): warning C4244: 'argumento': conversión de 'double' a 'T'; posible pérdida de datos
+C:\Users\Giakomo\Desktop\BancoCajero\Cajero\Cajero.cpp(599,20): warning C4244:         with
+C:\Users\Giakomo\Desktop\BancoCajero\Cajero\Cajero.cpp(599,20): warning C4244:         [
+C:\Users\Giakomo\Desktop\BancoCajero\Cajero\Cajero.cpp(599,20): warning C4244:             T=int
+C:\Users\Giakomo\Desktop\BancoCajero\Cajero\Cajero.cpp(599,20): warning C4244:         ]
+C:\Users\Giakomo\Desktop\BancoCajero\Cajero\Cajero.cpp(606,20): warning C4244: 'argumento': conversión de 'double' a 'T'; posible pérdida de datos
+C:\Users\Giakomo\Desktop\BancoCajero\Cajero\Cajero.cpp(606,20): warning C4244:         with
+C:\Users\Giakomo\Desktop\BancoCajero\Cajero\Cajero.cpp(606,20): warning C4244:         [
+C:\Users\Giakomo\Desktop\BancoCajero\Cajero\Cajero.cpp(606,20): warning C4244:             T=int
+C:\Users\Giakomo\Desktop\BancoCajero\Cajero\Cajero.cpp(606,20): warning C4244:         ]
+C:\Users\Giakomo\Desktop\BancoCajero\Cajero\Cajero.cpp(613,20): warning C4244: 'argumento': conversión de 'double' a 'T'; posible pérdida de datos
+C:\Users\Giakomo\Desktop\BancoCajero\Cajero\Cajero.cpp(613,20): warning C4244:         with
+C:\Users\Giakomo\Desktop\BancoCajero\Cajero\Cajero.cpp(613,20): warning C4244:         [
+C:\Users\Giakomo\Desktop\BancoCajero\Cajero\Cajero.cpp(613,20): warning C4244:             T=int
+C:\Users\Giakomo\Desktop\BancoCajero\Cajero\Cajero.cpp(613,20): warning C4244:         ]
+C:\Users\Giakomo\Desktop\BancoCajero\Cajero\Cajero.cpp(817,19): warning C4244: 'argumento': conversión de 'double' a 'T'; posible pérdida de datos
+C:\Users\Giakomo\Desktop\BancoCajero\Cajero\Cajero.cpp(817,19): warning C4244:         with
+C:\Users\Giakomo\Desktop\BancoCajero\Cajero\Cajero.cpp(817,19): warning C4244:         [
+C:\Users\Giakomo\Desktop\BancoCajero\Cajero\Cajero.cpp(817,19): warning C4244:             T=int
+C:\Users\Giakomo\Desktop\BancoCajero\Cajero\Cajero.cpp(817,19): warning C4244:         ]
+C:\Users\Giakomo\Desktop\BancoCajero\Cajero\Cajero.cpp(878,9): warning C4101: 'j': variable local sin referencia
+C:\Users\Giakomo\Desktop\BancoCajero\Cajero\Cajero.cpp(878,6): warning C4101: 'i': variable local sin referencia
+C:\Users\Giakomo\Desktop\BancoCajero\Cajero\Cajero.cpp(878,12): warning C4101: 'mayor': variable local sin referencia
+C:\Users\Giakomo\Desktop\BancoCajero\Cajero\Cajero.cpp(925,21): warning C4244: 'argumento': conversión de 'double' a 'T'; posible pérdida de datos
+C:\Users\Giakomo\Desktop\BancoCajero\Cajero\Cajero.cpp(925,21): warning C4244:         with
+C:\Users\Giakomo\Desktop\BancoCajero\Cajero\Cajero.cpp(925,21): warning C4244:         [
+C:\Users\Giakomo\Desktop\BancoCajero\Cajero\Cajero.cpp(925,21): warning C4244:             T=int
+C:\Users\Giakomo\Desktop\BancoCajero\Cajero\Cajero.cpp(925,21): warning C4244:         ]
+C:\Users\Giakomo\Desktop\BancoCajero\Cajero\Cajero.cpp(932,21): warning C4244: 'argumento': conversión de 'double' a 'T'; posible pérdida de datos
+C:\Users\Giakomo\Desktop\BancoCajero\Cajero\Cajero.cpp(932,21): warning C4244:         with
+C:\Users\Giakomo\Desktop\BancoCajero\Cajero\Cajero.cpp(932,21): warning C4244:         [
+C:\Users\Giakomo\Desktop\BancoCajero\Cajero\Cajero.cpp(932,21): warning C4244:             T=int
+C:\Users\Giakomo\Desktop\BancoCajero\Cajero\Cajero.cpp(932,21): warning C4244:         ]
+C:\Users\Giakomo\Desktop\BancoCajero\Cajero\Cajero.cpp(939,21): warning C4244: 'argumento': conversión de 'double' a 'T'; posible pérdida de datos
+C:\Users\Giakomo\Desktop\BancoCajero\Cajero\Cajero.cpp(939,21): warning C4244:         with
+C:\Users\Giakomo\Desktop\BancoCajero\Cajero\Cajero.cpp(939,21): warning C4244:         [
+C:\Users\Giakomo\Desktop\BancoCajero\Cajero\Cajero.cpp(939,21): warning C4244:             T=int
+C:\Users\Giakomo\Desktop\BancoCajero\Cajero\Cajero.cpp(939,21): warning C4244:         ]
+C:\Users\Giakomo\Desktop\BancoCajero\Cajero\Cajero.cpp(946,21): warning C4244: 'argumento': conversión de 'double' a 'T'; posible pérdida de datos
+C:\Users\Giakomo\Desktop\BancoCajero\Cajero\Cajero.cpp(946,21): warning C4244:         with
+C:\Users\Giakomo\Desktop\BancoCajero\Cajero\Cajero.cpp(946,21): warning C4244:         [
+C:\Users\Giakomo\Desktop\BancoCajero\Cajero\Cajero.cpp(946,21): warning C4244:             T=int
+C:\Users\Giakomo\Desktop\BancoCajero\Cajero\Cajero.cpp(946,21): warning C4244:         ]
+C:\Users\Giakomo\Desktop\BancoCajero\Cajero\Cajero.cpp(953,21): warning C4244: 'argumento': conversión de 'double' a 'T'; posible pérdida de datos
+C:\Users\Giakomo\Desktop\BancoCajero\Cajero\Cajero.cpp(953,21): warning C4244:         with
+C:\Users\Giakomo\Desktop\BancoCajero\Cajero\Cajero.cpp(953,21): warning C4244:         [
+C:\Users\Giakomo\Desktop\BancoCajero\Cajero\Cajero.cpp(953,21): warning C4244:             T=int
+C:\Users\Giakomo\Desktop\BancoCajero\Cajero\Cajero.cpp(953,21): warning C4244:         ]
+C:\Users\Giakomo\Desktop\BancoCajero\Cajero\Cajero.cpp(1029,20): warning C4244: 'argumento': conversión de 'double' a 'T'; posible pérdida de datos
+C:\Users\Giakomo\Desktop\BancoCajero\Cajero\Cajero.cpp(1029,20): warning C4244:         with
+C:\Users\Giakomo\Desktop\BancoCajero\Cajero\Cajero.cpp(1029,20): warning C4244:         [
+C:\Users\Giakomo\Desktop\BancoCajero\Cajero\Cajero.cpp(1029,20): warning C4244:             T=int
+C:\Users\Giakomo\Desktop\BancoCajero\Cajero\Cajero.cpp(1029,20): warning C4244:         ]
+C:\Users\Giakomo\Desktop\BancoCajero\Cajero\Cajero.cpp(1303,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\Giakomo\Desktop\BancoCajero\Cajero\Cajero.cpp(1306,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\Giakomo\Desktop\BancoCajero\Cajero\Cajero.cpp(1436,7): warning C4101: 'resultado': variable local sin referencia
+C:\Users\Giakomo\Desktop\BancoCajero\Cajero\Cajero.cpp(1504,20): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Giakomo\Desktop\BancoCajero\Cajero\HashTable.h(73,28): warning C4244: '+=': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "Cajero.cpp")
+  C:\Users\Giakomo\Desktop\BancoCajero\Cajero\HashTable.h(73,28):
+  el contexto de creación de instancias de la plantilla (el más antiguo primero) es
+  	C:\Users\Giakomo\Desktop\BancoCajero\Cajero\Cajero.cpp(340,25):
+  	Vea la referencia a la creación de una instancia de clase plantilla "HashTable<tarjetas>" que se está compilando
+  	C:\Users\Giakomo\Desktop\BancoCajero\Cajero\HashTable.h(68,9):
+  	al compilar la función del miembro clase plantilla "int HashTable<tarjetas>::_cuadraticProbing(int)"
+  		C:\Users\Giakomo\Desktop\BancoCajero\Cajero\HashTable.h(19,19):
+  		vea la primera referencia a “HashTable<tarjetas>::_cuadraticProbing” en “HashTable<tarjetas>::insert”
+  		C:\Users\Giakomo\Desktop\BancoCajero\Cajero\Cajero.cpp(341,14):
+  		vea la primera referencia a “HashTable<tarjetas>::insert” en “loginsearchpin”
+  
+C:\Users\Giakomo\Desktop\BancoCajero\Cajero\HashTable.h(65,23): warning C4244: '+=': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "Cajero.cpp")
+  C:\Users\Giakomo\Desktop\BancoCajero\Cajero\HashTable.h(65,23):
+  el contexto de creación de instancias de la plantilla (el más antiguo primero) es
+  	C:\Users\Giakomo\Desktop\BancoCajero\Cajero\HashTable.h(62,9):
+  	al compilar la función del miembro clase plantilla "int HashTable<tarjetas>::_hashFunction(std::string)"
+  		C:\Users\Giakomo\Desktop\BancoCajero\Cajero\HashTable.h(17,19):
+  		vea la primera referencia a “HashTable<tarjetas>::_hashFunction” en “HashTable<tarjetas>::insert”
+  		C:\Users\Giakomo\Desktop\BancoCajero\Cajero\Cajero.cpp(341,14):
+  		vea la primera referencia a “HashTable<tarjetas>::insert” en “loginsearchpin”
+  
+C:\Users\Giakomo\Desktop\BancoCajero\Cajero\Lista.h(89,27): warning C4018: '<': no coinciden signed/unsigned
+  (compilando archivo de origen "Cajero.cpp")
+  C:\Users\Giakomo\Desktop\BancoCajero\Cajero\Lista.h(89,27):
+  el contexto de creación de instancias de la plantilla (el más antiguo primero) es
+  	C:\Users\Giakomo\Desktop\BancoCajero\Cajero\Cajero.cpp(44,23):
+  	Vea la referencia a la creación de una instancia de clase plantilla "Lista<int,0>" que se está compilando
+  	C:\Users\Giakomo\Desktop\BancoCajero\Cajero\Lista.h(82,50):
+  	al compilar la función del miembro clase plantilla "void Lista<int,0>::agregaPos(T,uint)"
+          with
+          [
+              T=int
+          ]
+  		C:\Users\Giakomo\Desktop\BancoCajero\Cajero\Cajero.cpp(1397,16):
+  		vea la primera referencia a “Lista<int,0>::agregaPos” en “cambiarContrasenia”
+  
+C:\Users\Giakomo\Desktop\BancoCajero\Cajero\Lista.h(151,27): warning C4018: '<': no coinciden signed/unsigned
+  (compilando archivo de origen "Cajero.cpp")
+  C:\Users\Giakomo\Desktop\BancoCajero\Cajero\Lista.h(151,27):
+  el contexto de creación de instancias de la plantilla (el más antiguo primero) es
+  	C:\Users\Giakomo\Desktop\BancoCajero\Cajero\Lista.h(148,40):
+  	al compilar la función del miembro clase plantilla "T Lista<T,0>::obtenerPos(uint)"
+          with
+          [
+              T=int
+          ]
+  		C:\Users\Giakomo\Desktop\BancoCajero\Cajero\Cajero.cpp(1239,18):
+  		vea la primera referencia a “Lista<int,0>::obtenerPos” en “cargar”
+  
+C:\Users\Giakomo\Desktop\BancoCajero\Cajero\Cajero.cpp(1298,1): warning C4715: 'buscar': no todas las rutas de acceso de control devuelven un valor
+  LINK : no se encontró C:\Users\Giakomo\Desktop\BancoCajero\x64\Debug\Cajero.exe o no lo generó el último vínculo incremental; ejecutando vínculo completo
+  Cajero.vcxproj -> C:\Users\Giakomo\Desktop\BancoCajero\x64\Debug\Cajero.exe
